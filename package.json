@@ -2,7 +2,7 @@
   "name": "modular-vue",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base modular-vue-talk/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
